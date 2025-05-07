@@ -71,3 +71,7 @@ img {
     margin: auto;
     display: block;
 }
+
+body {
+    font-family: sans-serif;
+}
